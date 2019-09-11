@@ -8,4 +8,4 @@ Welcome to Lingxi's website :relaxed::kissing_closed_eyes:
 My name is Lingxi Lyu, Promounce She/Her/They/Them, I am a second year Arts Management student. I am planning to move together with my partner once I graduate!
 
 # Here is the assignment
-
+[Part 1](/part1.md)
