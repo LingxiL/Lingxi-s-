@@ -9,3 +9,4 @@ My name is Lingxi Lyu, Promounce She/Her/They/Them, I am a second year Arts Mana
 
 # Here is the assignment
 [Part 1](/Part1.md)
+[Part 2](/Part2.md)
