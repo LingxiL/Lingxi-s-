@@ -9,7 +9,10 @@ Welcome to Lingxi's website
 # About me
 My name is Lingxi Lyu, Promounce She/Her/They/Them, I am a second year Arts Management student. I am planning to move together with my partner once I graduate!
 
-# Here is the assignment
+# Here is the assignment2
 [Part 1](/Part1.md)
 
 [Part 2](/Part2.md)
+
+# Here is the assignment3/4
+[Assignment 3](/Assignment3.md)
