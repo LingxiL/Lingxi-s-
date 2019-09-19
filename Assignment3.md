@@ -1,10 +1,54 @@
+# Assignment 3
+
+
+# Description
+The data visualization I found is from the World Health Organization official website. It is a report of “Top 10 death causes in 2016” that under the Newsroom sector. And the database they use is also from their own organization. The aims of this article are to present the general idea of what is the top 10 causes of death over the world, as well as addressing the attention on public healthcare to different income groups.
+
+Here is the link for the report: https://www.who.int/news-room/fact-sheets/detail/the-top-10-causes-of-death
+
+To start with, listed different numbers/causes that come from the database, and also tried to make the comparison between the year 2016 with the year 2000 to see the improvement through 6 years.
 
 ![data visualization](/Screen Shot1.png)
 ![data visualization](/top102000.png)
+
+The other part of the article compared the top 10 lists between different income groups. The reason for doing that is to point out what kind of factor might be ignored by public authorities since the death causes for “low-income group” are different from “high-income group,” and low-income community is always lack of data collection and always being ignored.
+
 ![data visualization](/lowincome.png)
 ![data visualization](/highincome.png)
+
+
+# Wireframes
+In order to fully present the intention of the article through data visualization, my re-design uses different colors to make the graph looked more comfortable, as well as change the major trick marks from 2000 to 1000 to increase the understandability for the bar graph. Since the article uses the year 2000 to make the comparison, I tried to add arrows next to the bar to show the change of rank of each cause (as I draw in the sketch.)
+
 ![data visualization](/sketch1.jpg)
+
+As for the income group comparison, I only selected two colors to make the “new cause” more obvious. By saying “new cause,” I mean the cause that doesn’t exist in the high-income group but does exist in the low-income group. Those causes are critical since they are the causes always being ignored and should be noticed by public authorities.
+
 ![data visualization](/sketch2.jpg)
+
+
+# Feedback
+
+After sharing my wireframe with others, I got feedbacks/suggestions as follows:
+- Can not really understand the “arrows”/ If the graph marks “ranks,” why not also mark how many ranks did they change, or the rank that didn’t change?
+- Wants more explanations on “new causes.”/ Is the “new cause” only appear in the year 2016?
+- Why not put low-income and high-income groups together you want to fo the comparison?
+
+Based on the feedback, I decided to do these additional changes:
+
+- Change the order, put the year 2000 ahead of the year 2016, to make the ranks change more understandable.
+- Change the order of income groups, put the high-income group ahead, and to emphasize the low-income group
+- Use a different color for the up and down arrow, use the third color to mark the ranks that did not change
+- Provide more explanations for “new cause”
+
+And the new data visualization are as follow:
+
+
+# Global causes
+
+# Income group
+
+
 
 
 
