@@ -1,5 +1,10 @@
 
 ![data visualization](/Screen Shot1.png)
+![data visualization](/top102000.png)
+![data visualization](/lowincome.png)
+![data visualization](/highincome.png)
+![data visualization](/sketch1.jpg)
+![data visualization](/sketch2.jpg)
 
 
 
