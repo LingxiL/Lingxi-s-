@@ -20,11 +20,11 @@ The other part of the article compared the top 10 lists between different income
 # Wireframes
 In order to fully present the intention of the article through data visualization, my re-design uses different colors to make the graph looked more comfortable, as well as change the major trick marks from 2000 to 1000 to increase the understandability for the bar graph. Since the article uses the year 2000 to make the comparison, I tried to add arrows next to the bar to show the change of rank of each cause (as I draw in the sketch.)
 
-![data visualization](/sketch1.jpg)
+![data visualization](/sketch1.png)
 
 As for the income group comparison, I only selected two colors to make the “new cause” more obvious. By saying “new cause,” I mean the cause that doesn’t exist in the high-income group but does exist in the low-income group. Those causes are critical since they are the causes always being ignored and should be noticed by public authorities.
 
-![data visualization](/sketch2.jpg)
+![data visualization](/sketch2.png)
 
 
 # Feedback
