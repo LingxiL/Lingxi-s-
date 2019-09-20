@@ -68,7 +68,10 @@ And the new data visualization are as follow:
 </body>
  </html>
  
+ 
+ 
  # Income group
+ 
  
 <html>
 <head></head>
