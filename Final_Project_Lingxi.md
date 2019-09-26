@@ -1,5 +1,5 @@
 
-# My story
+# My Story
 
 My story starts with an interesting question that may probably address interests among a great number of people. The question is, “Who is most likely to win the next year’s Oscar directing award?”
 
