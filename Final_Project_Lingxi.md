@@ -26,7 +26,7 @@ The prediction for the next Oscar winner will be based on the winning trends thr
 5. Conclusion and final prediction. Based on the analysis above, I will come up with a conclusion and the final prediction.
 
 The story arc that combines four parts is as follows.
-
+![data visualization](/atoryarc.png)
 
 # Data
 
