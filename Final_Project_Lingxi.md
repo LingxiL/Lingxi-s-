@@ -28,6 +28,11 @@ The prediction for the next Oscar winner will be based on the winning trends thr
 The story arc that combines four parts is as follows.
 ![data visualization](/atoryarc.png)
 
+# Initial Sketches
+
+
+
+
 # Data
 
 My data sources come from two different places. One is the Academy Awards official website. The other is DataHub.
