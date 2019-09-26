@@ -13,11 +13,11 @@ The prediction for the next Oscar winner will be based on the winning trends thr
 
 2. Why important? —— Users’ Stories 
 
-` As an audience, I want to get to know the history, used trends, recent trends, and changes of the academy awards so that I can know more about the American film industry as well as the entertainment leading trends.
+- As an audience, I want to get to know the history, used trends, recent trends, and changes of the academy awards so that I can know more about the American film industry as well as the entertainment leading trends.
 
-` As a filmmaker, I want to obtain a general concept of the winning trends so that I can select next year’s production theme and have more chances to win the academy award.
+- As a filmmaker, I want to obtain a general concept of the winning trends so that I can select next year’s production theme and have more chances to win the academy award.
 
-` As a awards bidder, I want to know the trends and the changes in the awards do that I can win money in the gambling.
+- As a awards bidder, I want to know the trends and the changes in the awards do that I can win money in the gambling.
 
 3. Introduce the data resources as well as the researches. After explaining the topic, I am going to introduce the researches I had as well as my data resources—where does data come from, where to find the data, the academic accuracy of the data, and the reason for why I take four groups(past 10 years, 20 years, 50 years, and total 90 years.)
 
