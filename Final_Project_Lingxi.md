@@ -30,7 +30,13 @@ The story arc that combines four parts is as follows.
 
 # Initial Sketches
 
+![data visualization](/IMG_2814.png)
 
+For categorization, I will use alluvial diagram to show the flow of different group. As for the content, I am going to use key word tag cloud to analyze the key words during the last ten years. The right bottom graph is also designed based on the content. It will show the changing trends during the last ten years.
+
+For some specific cetegory, such as gender. It will be obvious to see the award's gender preference by using pie chart.
+
+Bar chart may also be utilized through the process. Although it is not shown in the sketches.
 
 
 # Data
