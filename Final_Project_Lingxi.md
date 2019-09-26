@@ -40,7 +40,7 @@ https://datahub.io/rufuspollock/oscars-nominees-and-winners
 
 To finish my project, I am going to use the excel from DataHub and add the data of the year 2019 by myself. What’s more, the records such as film opening dates, film types, and race are also not available in the excel document. I will enter those data by looking up the information through the official website.
 
-The database has been uploaded to Github as well: data_csv.csv
+The database has been uploaded to Github as well: [Final_Database](/data_csv.csv)
 
 # Method and Medium
 
