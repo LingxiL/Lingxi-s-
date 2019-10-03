@@ -18,4 +18,5 @@ My name is Lingxi Lyu, Pronounce She/Her/They/Them, I am a second year Arts Mana
 [Assignment 3](/Assignment3.md)
 
 # Final Project
-[Final Project](/Final_Project_Lingxi.md)
+[Final Project Part 1](/Final_Project_Lingxi.md)
+[Final Project Part 2](/Final_Project_Part_2.md)
