@@ -68,7 +68,7 @@ The third part is ten Pentagrams that showing five main factors I found through 
 
 
 
-# Usaer research part 2
+# User research part 2
 
 Secondly, after getting the interview results, I improved the database, added several other factors to the database, and sketched out the storyboard.
 During the second round interview, I would like to show my sketches/storyline to my audiences to see if the outline, storyline, and sketches can be accepted.
@@ -81,6 +81,7 @@ For storyline/sketches,
  
 
 
+# Digital
 
 
 
