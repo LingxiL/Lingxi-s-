@@ -48,16 +48,16 @@ The first part of the story should start with a question “who is most likely t
 The first analysis should be the general information, including demographics of the nominated directors (gender, race, age) and the types/keywords of the films
 
 Each chart, I will do a winner chart and a nominee chart, in order to see the winning trends as well as the nominating trends.
-![data visualization](/i.png)
+![data visualization](/i.JPG)
 
 
 The second part will make a step and analysis something else, the personalities of the directors which can be shown through horoscope, and the personalities/ other factors of the film, such as releasing season, running time, budgeting, box office, rating, and etc.
-![data visualization](/ii.png)
+![data visualization](/ii.JPG)
 
 
 The third part is ten Pentagrams that showing five main factors I found through the past two parts. I will combine them together to see the changing trends of the winner during the past 10 years.
 
-![data visualization](/iii.png)
+![data visualization](/iii.JPG)
 
 
 
