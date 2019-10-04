@@ -41,7 +41,7 @@ Interests:
  
  # wireframing / storyboards
  
-After getting the interview results, I improved the database, added several other factors to the database, and sketched out the storyboard. [Final_Database_improve](/Lingxi (1).xlsx)
+After getting the interview results, I improved the database, added several other factors to the database, and sketched out the storyboard.    [Final_Database_improve](/Lingxi (1).xlsx)
 
 The first part of the story should start with a question “who is most likely to win the next Oscar Directing Awards?” and to arise interests among audiences, I will also mention the advantages of knowing the trends--- Help you to make a better choice when selecting movie next year. The data should be the past 10 years’ data since they are more relevant to future results. 
 
