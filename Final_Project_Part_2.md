@@ -57,13 +57,13 @@ Each chart, I will do a winner chart and a nominee chart, in order to see the wi
 The second part will make a step and analysis something else, the personalities of the directors which can be shown through horoscope, and the personalities/ other factors of the film, such as releasing season, running time, budgeting, box office, rating, and etc.
 
 
-![data visualization](/ii.JPG)
+![data visualization](/ii.png)
 
 
 The third part is ten Pentagrams that showing five main factors I found through the past two parts. I will combine them together to see the changing trends of the winner during the past 10 years.
 
 
-![data visualization](/iii.JPG)
+![data visualization](/iii.png)
 
 
 
