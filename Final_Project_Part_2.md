@@ -1,15 +1,14 @@
 # user research protocol
 
-- Target audiences: 
-
-my target audiences can be categorized into three different groups
-   1. professional group, working in the film industry, know exactly what the film industry and what the Oscar is.
-   2. Film lover group, have great interests in film, interested in the Oscar awards, but do not have any background on the film industry.
-   3. General audiences group, know Oscar, sometimes watch films, never take it super seriously.
-
+   # Target audiences: 
+   My target audiences can be categorized into three different groups
+   -  professional group, working in the film industry, know exactly what the film industry and what the Oscar is.
+   - Film lover group, have great interests in film, interested in the Oscar awards, but do not have any background on the film industry.
+   - General audiences group, know Oscar, sometimes watch films, never take it super seriously.
 
 
-My representative individuals are from three different audiences group --- professionals, film lovers, and general audiences.
+   # representative individuals
+   My representative individuals are from three different audiences group --- professionals, film lovers, and general audiences.
 
  -  The representative individual from the professional group is my friend who graduated from a drama school, studied film making. She is a director and will give a unique perspective to my story
  -  The representative individual from the film lover group is a student who loves film making, pays a lot of attention to every years’ Oscar awards, and aiming to become a director someday. 
