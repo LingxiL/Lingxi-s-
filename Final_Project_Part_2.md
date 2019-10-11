@@ -1,13 +1,13 @@
 # User Research Protocol
 
-   # Target Audiences: 
+# Target Audiences: 
    My target audiences can be categorized into three different groups
    -  professional group, working in the film industry, know exactly what the film industry and what the Oscar is.
    - Film lover group, have great interests in film, interested in the Oscar awards, but do not have any background on the film industry.
    - General audiences group, know Oscar, sometimes watch films, never take it super seriously.
 
 
-   # Representative Individuals
+# Representative Individuals
    My representative individuals are from three different audiences group --- professionals, film lovers, and general audiences.
 
  -  The representative individual from the professional group is my friend who graduated from a drama school, studied film making. She is a director and will give a unique perspective to my story
@@ -15,7 +15,7 @@
  -  The representative individual from the general audience group is a friend who only watches the film for fun. She has heard about Oscar generally.
  
  
-# User Research
+ # User Research
 To do the user research, there are two sections I would like to know more.
    -  Before to draw the sketches, improve the content.
    -  After improving the content, test the stotyboard.
