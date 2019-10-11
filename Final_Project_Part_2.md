@@ -19,19 +19,18 @@
  -  The representative individual from the general audience group is a friend who only watches the film for fun. She has heard about Oscar generally.
  
  
- # User Research
+# User Research
 To do the user research, there are two sections I would like to know more.
    -  Before to draw the sketches, improve the content.
    -  After improving the content, test the stotyboard.
 
-
- # User Research Part 1
+# User Research Part 1
 Firstly, for the contents, I will ask three questions:
    1. what are the factors you think important when winning an Oscar Directing Awards?
    2. what are your assumptions for the winners?
    3. what information you are expecting to my data visualization. 
 
- # Results 1:
+# Results 1:
 For content, 
 Important factors and assumptions: the film genre, the achievement of the directors, the personality of the film
 Interests: 
@@ -42,7 +41,7 @@ Interests:
  
  
  
- # Wireframing / Improved Storyboards
+# Wireframing / Improved Storyboards
  
 After getting the interview results, I improved the database, added several other factors to the database, and sketched out the storyboard.    [Final_Database_improve](/improve.xlsx)
 
