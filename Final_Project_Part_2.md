@@ -1,4 +1,4 @@
-# user research protocol
+# User Research Protocol
 
    # Target Audiences: 
    My target audiences can be categorized into three different groups
@@ -21,7 +21,7 @@ To do the user research, there are two sections I would like to know more.
    -  After improving the content, test the stotyboard.
 
 
- # User Research part 1
+ # User Research Part 1
 Firstly, for the contents, I will ask three questions:
    1. what are the factors you think important when winning an Oscar Directing Awards?
    2. what are your assumptions for the winners?
@@ -38,7 +38,7 @@ Interests:
  
  
  
- # Wireframing / Improved storyboards
+ # Wireframing / Improved Storyboards
  
 After getting the interview results, I improved the database, added several other factors to the database, and sketched out the storyboard.    [Final_Database_improve](/improve.xlsx)
 
@@ -66,12 +66,12 @@ The third part is ten Pentagrams that showing five main factors I found through 
 
 
 
-# User research part 2
+# User Research Part 2
 
 Secondly, after getting the interview results, I improved the database, added several other factors to the database, and sketched out the storyboard.
 During the second round interview, I would like to show my sketches/storyline to my audiences to see if the outline, storyline, and sketches can be accepted.
 
-# Result 2:
+# Results 2:
 For storyline/sketches,
  - They said the sketches are clear and easy to follow
  - They love to see different types of charts, the diversity in charts.
