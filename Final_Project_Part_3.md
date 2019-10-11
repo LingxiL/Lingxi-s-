@@ -1,6 +1,10 @@
 # Back to Final Project Summarize
 [here](/Final_Project_Summarize.md)
 
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
 
-<div data-shorthand-embed="LINGXI LYU</p></div>" data-shorthand-embed-bucket="https://carnegiemellon.shorthandstories.com/lingxil/index.html"></div>
-" data-shorthand-embed-bucket="https://carnegiemellon.shorthandstories.com/lingxil/index.html"></div>
+  <dt>Markdown in HTML</dt>
+  <dd>https://carnegiemellon.shorthandstories.com/lingxil/index.html. Use HTML <em>tags</em>.</dd>
+</dl>
