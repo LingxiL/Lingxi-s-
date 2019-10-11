@@ -8,3 +8,6 @@
   <dt>Markdown in HTML</dt>
   <dd>https://carnegiemellon.shorthandstories.com/lingxil/index.html. Use HTML <em>tags</em>.</dd>
 </dl>
+
+
+[I'm an inline-style link](https://carnegiemellon.shorthandstories.com/lingxil/index.html)
