@@ -51,7 +51,7 @@ The first analysis should be the general information, including demographics of 
 Each chart, I will do a winner chart and a nominee chart, in order to see the winning trends as well as the nominating trends.
 
 
-![data visualization](/i.PNG)
+![data visualization](/i.png)
 
 
 The second part will make a step and analysis something else, the personalities of the directors which can be shown through horoscope, and the personalities/ other factors of the film, such as releasing season, running time, budgeting, box office, rating, and etc.
