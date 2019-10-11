@@ -1,13 +1,13 @@
 # user research protocol
 
-   # Target audiences: 
+   # Target Audiences: 
    My target audiences can be categorized into three different groups
    -  professional group, working in the film industry, know exactly what the film industry and what the Oscar is.
    - Film lover group, have great interests in film, interested in the Oscar awards, but do not have any background on the film industry.
    - General audiences group, know Oscar, sometimes watch films, never take it super seriously.
 
 
-   # representative individuals
+   # Representative Individuals
    My representative individuals are from three different audiences group --- professionals, film lovers, and general audiences.
 
  -  The representative individual from the professional group is my friend who graduated from a drama school, studied film making. She is a director and will give a unique perspective to my story
@@ -15,30 +15,30 @@
  -  The representative individual from the general audience group is a friend who only watches the film for fun. She has heard about Oscar generally.
  
  
-
+# User Research
 To do the user research, there are two sections I would like to know more.
-   1. Before to draw the sketches, improve the content.
-   2. After improving the content, test the stotyboard.
+   -  Before to draw the sketches, improve the content.
+   -  After improving the content, test the stotyboard.
 
 
- # User research part 1
+ # User Research part 1
 Firstly, for the contents, I will ask three questions:
    1. what are the factors you think important when winning an Oscar Directing Awards?
    2. what are your assumptions for the winners?
    3. what information you are expecting to my data visualization. 
 
-- Results:
+ # Results 1:
 For content, 
 Important factors and assumptions: the film genre, the achievement of the directors, the personality of the film
 Interests: 
-   1. does winning trends relate to politics? 
-   2. What are the academic backgrounds of the directors? 
-   3. Is there any topic related to LGBTQ?
+   -  does winning trends relate to politics? 
+   -  What are the academic backgrounds of the directors? 
+   -  Is there any topic related to LGBTQ?
  
  
  
  
- # wireframing / storyboards
+ # Wireframing / Improved storyboards
  
 After getting the interview results, I improved the database, added several other factors to the database, and sketched out the storyboard.    [Final_Database_improve](/improve.xlsx)
 
@@ -71,7 +71,7 @@ The third part is ten Pentagrams that showing five main factors I found through 
 Secondly, after getting the interview results, I improved the database, added several other factors to the database, and sketched out the storyboard.
 During the second round interview, I would like to show my sketches/storyline to my audiences to see if the outline, storyline, and sketches can be accepted.
 
- Result:
+# Result 2:
 For storyline/sketches,
  - They said the sketches are clear and easy to follow
  - They love to see different types of charts, the diversity in charts.
