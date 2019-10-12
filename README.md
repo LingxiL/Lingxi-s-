@@ -4,10 +4,11 @@ link to the live site https://lingxil.github.io/Lingxi-s-/
 # Hello
 Welcome to Lingxi's website 
 
-:relaxed::kissing_closed_eyes:
 
 # About me
-My name is Lingxi Lyu, Pronounce She/Her/They/Them, I am a second year Arts Management student. I am planning to move together with my partner once I graduate!
+My name is Lingxi Lyu, Pronounce She/Her/They/Them, I am a second year Arts Management student. This is a website that containing all of my works from the class "telling story with data" at CMU. 
+
+The assignment 1, 2, 3, and 4 are data visualization critiques I did. and the final project is a story of "Who is most likely to win the next Oscar Directing Award?" which told through data visualization.
 
 # Here is the assignment2
 [Part 1](/Part1.md)
